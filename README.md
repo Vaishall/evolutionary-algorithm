@@ -11,3 +11,5 @@ V2 has discrete movement and some collision logic
 V3 has AI controlled movement for one generation
 
 EvolutionaryAlgorithm has the algorithm
+
+Run the cat_and_mouse.py file
